@@ -14,7 +14,7 @@ django-admin startproject demo
 
 cd demo
 
-git clone https://github.com/GOPALGTM/demo-django
+git clone https://github.com/GOPALGTM/demo-django.git
 
 sudo apt install docker.io -y
 
